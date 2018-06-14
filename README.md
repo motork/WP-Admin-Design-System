@@ -1,6 +1,6 @@
 # WP Admin Design System
 
-WP Admin Design System comes from the fantastic work done by 10up.
+WP Admin Design System comes from the fantastic work done by [[10up](https://github.com/10up/SketchPress)]
 
 What we have done is a general improvement in order to be more aligned with the current WordPress version, more flexible, easier to maintain and to integrate it into our daily workflow.
 
@@ -117,4 +117,4 @@ Contributing doesn't necessarily mean commiting code, we also encourage you to:
 
 **Submit an issue**
 
-The easiest way for us to get an understanding of your needs is to open an issue. Follow our **[issue template](/docs/)** (you'll see this when you go to open an issue) to ensure you are meeting the issue writing requirements. Screenshots are required when submitting a new pattern or component. A member of the Carbon team will respond to your issue with next steps or a follow up.
+The easiest way for us to get an understanding of your needs is to open an issue. Follow our **[issue template](/docs/issue-template.md)** (you'll see this when you go to open an issue) to ensure you are meeting the issue writing requirements. Screenshots are required when submitting a new pattern or component.
