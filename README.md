@@ -60,7 +60,7 @@ There are 32+ wireframes in the WP Admin Design System. See below for the highli
 
 WordPress Admin Screens
 
-... GIF HERE...
+...
 
 **Post & Pages**
 
