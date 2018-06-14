@@ -17,7 +17,7 @@ Contains release notes on current and previous versions of the WP Admin Design S
   - One single Sketch library
   - Optimized library (3MB only) to enhance Sketch speed
   - Better responsive Symbols
-  - More small files .... maintenance
+  - Template files splitted and attached to library
   - All the elements built with Apple San Francisco system font.
 
 
