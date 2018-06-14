@@ -8,13 +8,24 @@ Our goal is to maintain a Sketch library and a collection of related pages for q
 
 MotorK has created a single library of WordPress Admin mockups (including a beta version of the new Gutenberg Editor) which cover the breadth of WordPress’ authoring and administrative environment (wp-admin). Being able to start from this solid foundation allows us to focus more on the concepts and less on pushing the pixels to make it look like an authentic backend experience.
 
-## Improvements:
 
-- One single Sketch library
-- Optimized library (3MB only) to enhance Sketch speed
-- Better responsive Symbols
-- More small files .... maintenance
-- All the elements built with Apple San Francisco system font.
+## **📝 Change Log**
+
+Contains release notes on current and previous versions of the WP Admin Design System.
+
+- 0.5.0
+  - One single Sketch library
+  - Optimized library (3MB only) to enhance Sketch speed
+  - Better responsive Symbols
+  - More small files .... maintenance
+  - All the elements built with Apple San Francisco system font.
+
+
+## 🚦Requirements
+
+- Sketch version 50.2 [[sketchapp.com](https://www.sketchapp.com)]
+- SF Display Font [[download](https://developer.apple.com/fonts/)]
+
 
 ## Sketch App
 
@@ -22,16 +33,6 @@ The Sketch App, a digital design tool for Mac users, is increasingly popular amo
 
 If you haven’t worked with Sketch app before, we highly recommend going to their learning resources center to watch and read materials about it: [https://www.sketchapp.com/learn/](https://www.sketchapp.com/learn/)
 
-## **📝 Change Log**
-
-Contains release notes on current and previous versions of the WP Admin Design System.
-
-0.5.0
-
-## 🚦Requirements
-
-- Sketch version 50.2 [[sketchapp.com](https://www.sketchapp.com)]
-- SF Display Font [[download](https://developer.apple.com/fonts/)]
 
 ## Getting Started
 
@@ -40,9 +41,11 @@ Contains release notes on current and previous versions of the WP Admin Design S
 3. Navigate to a custom location where you want to store the **WP Admin Design System** and paste the just downloaded version in this folder.
 4. Import the WP Admin Design System Library [**following this tutorial**](/docs/importing-wp-admin-design-system-library.md)
 
+
 ## Usage
 
 ....
+
 
 ## Steps to upgrading to the latest Library
 
@@ -53,6 +56,7 @@ To update to the latest library version you will need to download the newest ver
 3. Navigate to the location where you stored your first **WP Admin Design System** download (per the instructions above) and paste the newly downloaded version in this folder.
 4. A modal will appear asking if you want to “Keep both, stop, or replace” the old file, click *replace*. This will ensure that the **WP Admin Design System** you previously imported into Sketch will be updated with the most recent changes.
 5. When you open any Sketch file the **WP Admin Design System** Library should reflect the latest changes with the exception of any symbols currently in use in that particular Sketch file. To update those components, navigate to the notifications badge in the upper right hand corner, click **Library Update Available** to activate a modal that let's you see and accept the changes between versions.
+
 
 ## **Included Elements**
 
@@ -100,9 +104,11 @@ Plugins (coming soon)
 
 Network (coming soon)
 
-## **WP Version**
+
+## **WordPress Version**
 
 This project using WordPress 4.9.6 as a reference. Depending on installed plugins, themes, and user configuration your environment may be different.
+
 
 ## **Contributing**
 
