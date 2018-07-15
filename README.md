@@ -13,17 +13,19 @@ MotorK has created a single library of WordPress Admin mockups (including a beta
 
 Contains release notes on current and previous versions of the WP Admin Design System.
 
-- 0.5.0
-  - One single Sketch library
-  - Optimized library (3MB only) to enhance Sketch speed
-  - Better responsive Symbols
-  - Template files splitted and attached to library
-  - All the elements built with Apple San Francisco system font.
+- 0.6.0 (latest)
+  - introduced core notice symbols
+  - introduced core buttons icon
+  - gutenberg 3.2.0 first enhancements
+  - better symbols naming convention
+  - admin footer unbranded
+
+**[full changelog](/changelog.md)**
 
 
 ## 🚦Requirements
 
-- Sketch version 50.2 [[sketchapp.com](https://www.sketchapp.com)]
+- Sketch version 51 [[sketchapp.com](https://www.sketchapp.com)]
 - SF Display Font [[download](https://developer.apple.com/fonts/)]
 
 
@@ -107,7 +109,7 @@ Network (coming soon)
 
 ## **WordPress Version**
 
-This project using WordPress 4.9.6 as a reference. Depending on installed plugins, themes, and user configuration your environment may be different.
+This project using WordPress 4.9.7 as a reference. Depending on installed plugins, themes, and user configuration your environment may be different.
 
 
 ## **Contributing**
